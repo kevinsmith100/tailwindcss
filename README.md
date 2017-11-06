@@ -1,6 +1,7 @@
 # Tailwind CSS
 
 [ ![Codeship Status for tailwindcss/tailwindcss](https://app.codeship.com/projects/cdd4ad20-a319-0135-c87c-02251d502cd2/status?branch=master)](https://app.codeship.com/projects/254859)
+<a href="https://snyk.io/test/github/kevinsmith100/tailwindcss"><img src="https://snyk.io/test/github/kevinsmith100/tailwindcss/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/kevinsmith100/tailwindcss" style="max-width:100%;"></a>
 
 A utility-first CSS framework for rapidly building custom user interfaces.
 
