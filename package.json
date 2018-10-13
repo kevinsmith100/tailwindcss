@@ -38,8 +38,8 @@
   "dependencies": {
     "commander": "^2.11.0",
     "fs-extra": "^4.0.2",
-    "lodash": "^4.17.4",
-    "nodemon": "^1.11.0",
+    "lodash": "^4.17.5",
+    "nodemon": "^1.14.11",
     "postcss": "^6.0.9",
     "postcss-functions": "^3.0.0",
     "stylefmt": "^6.0.0"
